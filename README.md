@@ -1,6 +1,6 @@
 # Coding Interview University
 
-> This is just a fork version and don't deserve to have star on it.
+**This is just a fork version and don't deserve to have star on it.**
 
 <details>
 <summary>Translations:</summary>
